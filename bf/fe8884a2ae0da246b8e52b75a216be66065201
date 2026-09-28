@@ -1,0 +1,19 @@
+lib/Commands.js
+  s_e0dc58fc0a1cf7::t_c1aec1d66c03a8 182-184,186-188
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bffe8884a2ae0da246b8e52b75a216be66065201",
+  "prompts": {},
+  "sessions": {
+    "s_e0dc58fc0a1cf7": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a0e742-a8e9-76e5-ab72-865d056f7a49",
+        "model": "gemini-3.8-flash"
+      },
+      "human_author": "zhouatie <zhouatie@gmail.com>"
+    }
+  }
+}
