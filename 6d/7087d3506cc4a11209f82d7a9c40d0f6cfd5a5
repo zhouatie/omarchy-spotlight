@@ -1,0 +1,24 @@
+lib/Commands.js
+  s_e0dc58fc0a1cf7::t_fe97e9b4ce31a4 120-201,203-208,210
+tests/commands.test.js
+  s_e0dc58fc0a1cf7::t_42faac94677562 53-122
+Spotlight.qml
+  s_e0dc58fc0a1cf7::t_1ee0828059cc1a 39,151-154,315,457-484,1106,1117,1122,1124-1125,1720-1723,2477-2482
+  s_e0dc58fc0a1cf7::t_058275704d934d 2483-2484
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6d7087d3506cc4a11209f82d7a9c40d0f6cfd5a5",
+  "prompts": {},
+  "sessions": {
+    "s_e0dc58fc0a1cf7": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a0e742-a8e9-76e5-ab72-865d056f7a49",
+        "model": "gemini-3.8-flash"
+      },
+      "human_author": "zhouatie <zhouatie@gmail.com>"
+    }
+  }
+}
